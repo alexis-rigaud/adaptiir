@@ -1,8 +1,8 @@
 # AdaptIIR toolbox
 
-This is the upgraded (and last) public version of the `adaptiir` toolbox from Annex A of :
+This is the upgraded (and last) public version of the `adaptiir` toolbox presented in Annex A of :
 
-> Regalia, P. A. (1995). Adaptive IRR filtering in signal processing and control. Marcel Dekker. 
+> Regalia, P. A. (1995). Adaptive IIR filtering in signal processing and control. Marcel Dekker. 
 
 ## Copyright
 
